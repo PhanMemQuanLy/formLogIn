@@ -1,0 +1,9 @@
+C:\Users\Tran Dac\OneDrive\HocTap\2015-2016\TH_LTHDT\BTVN\DangNhap\DangNhap\bin\Debug\DangNhap.exe.config
+C:\Users\Tran Dac\OneDrive\HocTap\2015-2016\TH_LTHDT\BTVN\DangNhap\DangNhap\bin\Debug\DangNhap.exe
+C:\Users\Tran Dac\OneDrive\HocTap\2015-2016\TH_LTHDT\BTVN\DangNhap\DangNhap\bin\Debug\DangNhap.pdb
+C:\Users\Tran Dac\OneDrive\HocTap\2015-2016\TH_LTHDT\BTVN\DangNhap\DangNhap\obj\Debug\DangNhap.csprojResolveAssemblyReference.cache
+C:\Users\Tran Dac\OneDrive\HocTap\2015-2016\TH_LTHDT\BTVN\DangNhap\DangNhap\obj\Debug\DangNhap.Form1.resources
+C:\Users\Tran Dac\OneDrive\HocTap\2015-2016\TH_LTHDT\BTVN\DangNhap\DangNhap\obj\Debug\DangNhap.Properties.Resources.resources
+C:\Users\Tran Dac\OneDrive\HocTap\2015-2016\TH_LTHDT\BTVN\DangNhap\DangNhap\obj\Debug\DangNhap.csproj.GenerateResource.Cache
+C:\Users\Tran Dac\OneDrive\HocTap\2015-2016\TH_LTHDT\BTVN\DangNhap\DangNhap\obj\Debug\DangNhap.exe
+C:\Users\Tran Dac\OneDrive\HocTap\2015-2016\TH_LTHDT\BTVN\DangNhap\DangNhap\obj\Debug\DangNhap.pdb
